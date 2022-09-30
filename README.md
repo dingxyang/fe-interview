@@ -10,7 +10,12 @@
             + [ ] [异步系列-Event Loop](https://github.com/LiangJunrong/document-library/blob/master/%E7%B3%BB%E5%88%97-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99/JavaScript/%E5%BC%82%E6%AD%A5%E7%B3%BB%E5%88%97/Event%20Loop.md) 
             + [ ] [一次弄懂Event Loop（彻底解决此类面试问题）](https://juejin.cn/post/6844903764202094606) 
             + [ ] [45道Promise面试题](https://github.com/LinDaiDai/niubility-coding-js/blob/master/JavaScript/%E5%BC%82%E6%AD%A5/%E8%A6%81%E5%B0%B1%E6%9D%A545%E9%81%93Promise%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%80%E6%AC%A1%E7%88%BD%E5%88%B0%E5%BA%95.md)
-
+            + [ ] [彻底吃透 JavaScript 执行机制](https://juejin.cn/post/6844903955286196237)
+            + [ ] [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+            + [ ] [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+        + [ ] Promise
+            + [ ] [写一个符合 Promises/A+ 规范并可配合 ES7 async/await 使用的 Promise](https://zhuanlan.zhihu.com/p/23312442)
+            + [ ] [上最通俗易懂的Promise](https://juejin.cn/post/6844903607968481287#heading-7)
 ## 综合
 
 - [面试小记](https://juejin.cn/column/7077762092295520263)
