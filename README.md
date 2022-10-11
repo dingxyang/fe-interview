@@ -4,7 +4,7 @@
 
 ## 个人学习计划
 + [ ] JavaScript
-    + [ ] 基础
+    + [ ] [基础](./docs/JavaScript/%E5%9F%BA%E7%A1%80.md)
     + [ ] this
     + [ ] 闭包
     + [ ] 原型和原型链
